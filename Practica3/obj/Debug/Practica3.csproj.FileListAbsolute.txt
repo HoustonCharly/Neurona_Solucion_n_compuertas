@@ -1,0 +1,22 @@
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.csproj.AssemblyReference.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.csproj.SuggestedBindingRedirects.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.Form1.resources
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.Properties.Resources.resources
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.csproj.GenerateResource.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\bin\Debug\Practica3.exe.config
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\bin\Debug\Practica3.exe
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\bin\Debug\Practica3.pdb
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.exe
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.pdb
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\bin\Debug\Practica3.exe.config
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\bin\Debug\Practica3.exe
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\bin\Debug\Practica3.pdb
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.csproj.AssemblyReference.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.csproj.SuggestedBindingRedirects.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.Form1.resources
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.Properties.Resources.resources
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.csproj.GenerateResource.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.exe
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 3 compuertas\Practica3\obj\Debug\Practica3.pdb
